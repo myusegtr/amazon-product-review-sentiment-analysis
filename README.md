@@ -65,3 +65,7 @@ Create interactive visualizations to showcase the distribution of sentiments and
 
 #### Deployment:
 Deploy the trained model as a web application or API for real-time sentiment analysis.
+
+
+
+### Kaggle link to download the dataset:- https://www.kaggle.com/datasets/arhamrumi/amazon-product-reviews?resource=download
